@@ -48,7 +48,7 @@ Covid-19의 장기화로 인해 지쳐버린 마음이 우울함과 무기력함
 - Transformer Encoder를 쌓아올린 구조
 - Optimizer: AdamW
 - Loss Function: Cross Entropy
-- [코드 참조](https://github.com/deepseasw/bert-naver-movie-review)
+- 골조 코드 [github](https://github.com/deepseasw/bert-naver-movie-review)
 
 
 ## Result
