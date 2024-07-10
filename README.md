@@ -1,6 +1,6 @@
 # 스트레스 받아 닭발 주문하는 손가락 멈춰!
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
 ## Background
 
@@ -48,6 +48,8 @@ Covid-19의 장기화로 인해 지쳐버린 마음이 우울함과 무기력함
 - Transformer Encoder를 쌓아올린 구조
 - Optimizer: AdamW
 - Loss Function: Cross Entropy
+- [코드 참조](https://github.com/deepseasw/bert-naver-movie-review)
+
 
 ## Result
 ![image](https://github.com/carboxaminoo/koBERT-Project/assets/149589697/5e27a1a0-de46-4971-9858-00b908896107)
