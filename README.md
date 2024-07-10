@@ -41,9 +41,9 @@ Covid-19의 장기화로 인해 지쳐버린 마음이 우울함과 무기력함
 - 부정적 감정들과 완화에 도움이 되는 식재료 및 도움 성분에 대한 데이터
 - 직접 조사 및 생성된 데이터
 - 감정, 식재료, 완화 성분 총 3개의 칼럼
-
+ 
 ## Model
-#### KoBERT (Korean Bidirectional Encoder Representations from Transformers)
+#### KoBERT (Korean Bidirectional Encoder Representations from Transformers) [github](https://github.com/SKTBrain/KoBERT)
 - 구글에서 발표한 기계번역 모델 BERT를 SKT Brain에서 한국어 데이터로 학습시켜 공개한 모델
 - Transformer Encoder를 쌓아올린 구조
 - Optimizer: AdamW
